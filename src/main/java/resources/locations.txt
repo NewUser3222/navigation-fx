@@ -1,0 +1,4 @@
+Cleveland,0.0,50.0
+Akron,40.0,30.0
+Columbus,140.0,60.0
+Toledo,115.0,40.0
